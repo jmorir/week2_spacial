@@ -1,4 +1,4 @@
-# Week2_spacial: Challenge 1
+# Week2_spatial: Challenge 1
 - **Nombres y Apellidos**: Joaquín Paolo Mori Reinoso
 - **Código**: 20211686
 
