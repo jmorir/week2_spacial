@@ -4,6 +4,8 @@
 
 En este repositorio se subirá la tarea de la semana 2 del TALLER DE HERRAMIENTAS CUANTIATIVAS. Se optó por realizar el *Challenge 1*. A través de la graficación de mapas, se realizó el ejercicio de creación de mapas para Uruguay. Se utilizaron los datos geográficos del país, sus ciudades, ríos y aeropuertos. Además, se agregaron los limites administrativos por departamento para organizar el mapa. Se presenta a través del repositorio el trabajo de ordenamiento y proyección de la información espacial en un mapa.
 
+Se puede acceder al repositorio a través del siguiente enlace: https://jmorir.github.io/week2_spacial/
+
 
 Las indicaciones fueron las siguientes:
 <div class="alert alert-danger">
