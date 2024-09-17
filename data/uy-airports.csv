@@ -1,0 +1,70 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+6247,SUMU,large_airport,"Carrasco General Cesáreo L. Berisso International Airport",-34.835647,-56.026497,105,SA,Uruguay,UY,"Canelones Department",UY-CA,CA,"Ciudad de la Costa",1,SUMU,MVD,,,https://en.wikipedia.org/wiki/Carrasco_International_Airport,Montevideo,1275,2022-10-27T14:30:14+00:00
+6246,SULS,medium_airport,"Capitan Corbeta CA Curbelo International Airport",-34.855099,-55.094299,95,SA,Uruguay,UY,"Maldonado Department",UY-MA,MA,"Punta del Este",1,SULS,PDP,,http://www.puntadeleste.aero/,https://en.wikipedia.org/wiki/Capitan_Corbeta_CA_Curbelo_International_Airport,,500,2024-06-09T20:10:48+00:00
+32390,SUPE,small_airport,"El Jagüel / Punta del Este Airport",-34.909716,-54.920212,66,SA,Uruguay,UY,"Maldonado Department",UY-MA,MA,Maldonado,1,SUPE,,,,https://en.wikipedia.org/wiki/El_Jag%C3%BCel_Airport,,150,2024-05-18T23:28:54+00:00
+6245,SUDU,medium_airport,"Santa Bernardina International Airport",-33.358898,-56.499199,305,SA,Uruguay,UY,"Durazno Department",UY-DU,DU,Durazno,0,SUDU,DZO,,,https://en.wikipedia.org/wiki/Santa_Bernardina_International_Airport,,475,2024-05-17T07:24:01+00:00
+6248,SUSO,medium_airport,"Nueva Hesperides International Airport",-31.438499,-57.985298,187,SA,Uruguay,UY,"Salto Department",UY-SA,SA,Salto,0,SUSO,STY,,,https://en.wikipedia.org/wiki/Nueva_Hesperides_International_Airport,,275,2024-05-17T07:24:32+00:00
+6244,SUAA,medium_airport,"Ángel S. Adami International Airport",-34.7892,-56.264702,174,SA,Uruguay,UY,"Montevideo Department",UY-MO,MO,Montevideo,0,SUAA,,,,https://en.wikipedia.org/wiki/%C3%81ngel_S._Adami_Airport,"Aeródromo de Melilla, Melilla Airport",250,2022-10-27T14:32:17+00:00
+30868,SUCA,small_airport,"Colonia Laguna de Los Patos International Airport",-34.456402,-57.770599,66,SA,Uruguay,UY,"Colonia Department",UY-CO,CO,"Colonia del Sacramento",0,SUCA,CYR,,,https://en.wikipedia.org/wiki/Colonia_Airport,,50,2022-10-27T14:44:03+00:00
+326528,UY-0013,small_airport,"Florida Aviation Center",-34.08392,-56.186665,188,SA,Uruguay,UY,"Florida Department",UY-FD,FD,Florida,0,SUFL,,,,,,50,2018-03-02T15:20:00+00:00
+32240,SURV,small_airport,"Presidente General Don Oscar D. Gestido International Airport",-30.9746,-55.4762,712,SA,Uruguay,UY,"Rivera Department",UY-RV,RV,Rivera,0,SURV,RVY,,,https://en.wikipedia.org/wiki/Rivera_International_Airport,,50,2024-05-29T05:52:14+00:00
+325615,SUCN,small_airport,"Aeroclub Canelones",-34.515153,-56.261384,98,SA,Uruguay,UY,"Canelones Department",UY-CA,CA,Canelones,0,SUCN,,,http://www.aeroclubcanelones.org.uy/sitio/,,,50,2017-11-26T10:26:27+00:00
+39082,SUCM,small_airport,"Zagarzazú International Airport",-33.96611,-58.325279,42,SA,Uruguay,UY,"Colonia Department",UY-CO,CO,Carmelo,0,SUCM,,,,https://en.wikipedia.org/wiki/Zagarzaz%C3%BA_International_Airport,"Balneario Zagarzazú, Carmelo",50,2021-10-07T16:00:59+00:00
+31920,SUMO,small_airport,"Cerro Largo International Airport",-32.337898,-54.216702,364,SA,Uruguay,UY,"Cerro Largo Department",UY-CL,CL,Melo,0,SUMO,MLZ,,,https://en.wikipedia.org/wiki/Cerro_Largo_International_Airport,,50,2024-05-29T05:51:44+00:00
+32388,SUME,small_airport,"Ricardo Detomasi Airport",-33.2489,-58.0737,68,SA,Uruguay,UY,"Río Negro Department",UY-RN,RN,Mercedes,0,SUME,,,,https://es.wikipedia.org/wiki/Aeropuerto_Ricardo_Detomasi,,50,2017-11-26T07:49:55+00:00
+30253,SUPU,small_airport,"Tydeo Larre Borges Airport",-32.3633,-58.061901,138,SA,Uruguay,UY,"Paysandu Department",UY-PA,PA,Paysandú,0,SUPU,PDU,,,https://en.wikipedia.org/wiki/Paysand%C3%BA_Airport,,50,2023-07-28T10:46:28+00:00
+32423,SUTB,small_airport,"Tacuarembo Airport",-31.749001,-55.925801,440,SA,Uruguay,UY,"Tacuarembo Department",UY-TA,TA,Tacuarembo,0,SUTB,TAW,,,https://en.wikipedia.org/wiki/Tacuaremb%C3%B3_Airport,,50,2018-03-02T21:46:20+00:00
+325318,SUAY,small_airport,"Termas del Arapey Airport",-30.938271,-57.517528,153,SA,Uruguay,UY,"Salto Department",UY-SA,SA,"Termas del Arapey",0,SUAY,,,,,,50,2017-10-28T10:35:38+00:00
+324371,UY-0004,small_airport,"Garcia Brum Airstrip",-32.396295,-56.588257,448,SA,Uruguay,UY,"Paysandu Department",UY-PA,PA,,0,,,,,,,50,2017-07-09T14:58:06+00:00
+513760,UY-0023,small_airport,"Los Alamos Airport",-31.804875,-54.264035,558,SA,Uruguay,UY,"Cerro Largo Department",UY-CL,CL,Aceguá,0,,,,,,,50,2023-10-25T13:29:19+00:00
+324636,UY-0005,small_airport,"Joaquín Lenzina Airport",-31.868851,-55.498746,,SA,Uruguay,UY,"Tacuarembo Department",UY-TA,TA,Ansina,0,,,,,,,50,2017-08-04T10:23:35+00:00
+324637,UY-0006,small_airport,"Ansina Airstrip",-31.869065,-55.491636,,SA,Uruguay,UY,"Tacuarembo Department",UY-TA,TA,Ansina,0,,,,,,,50,2017-08-04T10:24:44+00:00
+30655,SUAG,small_airport,"Artigas International Airport",-30.4007,-56.5079,410,SA,Uruguay,UY,"Artigas Department",UY-AR,AR,Artigas,0,SUAG,ATI,,,https://en.wikipedia.org/wiki/Artigas_Airport,,50,2024-04-07T06:17:40+00:00
+41564,SUBU,small_airport,"Placeres Airport",-30.319807,-57.558823,252,SA,Uruguay,UY,"Artigas Department",UY-AR,AR,"Bella Union",0,SUBU,BUV,1290,,https://en.wikipedia.org/wiki/Placeres_Airport,,50,2023-12-15T20:57:18+00:00
+325607,SUCD,small_airport,"Cardona Airport",-33.875502,-57.397875,554,SA,Uruguay,UY,"Soriano Department",UY-SO,SO,Cardona,0,SUCD,,,,,,50,2017-11-25T23:22:23+00:00
+326557,SUSG,small_airport,"San Gregorio Airport",-32.526501,-55.841636,371,SA,Uruguay,UY,"Tacuarembo Department",UY-TA,TA,"Cerro Chato",0,SUSG,,,,,,50,2018-03-03T15:08:35+00:00
+325611,SUCH,small_airport,"Chuy Airport",-33.71085,-53.471334,59,SA,Uruguay,UY,"Rocha Department",UY-RO,RO,Chuy,0,SUCH,,,,,,50,2017-11-25T23:49:39+00:00
+348483,UY-0020,small_airport,"Cumbres de Carrasco Airport",-34.76896,-55.95315,83,SA,Uruguay,UY,"Canelones Department",UY-CA,CA,"Ciudad de la Costa",0,,,,,,,50,2021-10-07T16:15:02+00:00
+348479,UY-0016,small_airport,"La Rabida Airport",-34.72139,-56.61134,104,SA,Uruguay,UY,"San José Department",UY-SJ,SJ,"Costas del Tigre",0,,,1001,,,,50,2023-12-19T00:14:50+00:00
+348482,UY-0019,small_airport,"Wings of Freedom Airport",-34.76568,-55.48423,66,SA,Uruguay,UY,"Canelones Department",UY-CA,CA,"Cuchilla Alta",0,,,,,,,50,2021-10-07T16:13:30+00:00
+325597,UY-0008,small_airport,"Ricardo Raver Airport",-34.312485,-57.041631,92,SA,Uruguay,UY,"San José Department",UY-SJ,SJ,"Ecilda Paullier",0,,,,,,,50,2017-11-25T11:09:27+00:00
+325606,SUAN,small_airport,"Anchorena Airport",-34.270516,-57.964383,49,SA,Uruguay,UY,"Colonia Department",UY-CO,CO,"Estancia Anchorena",0,SUAN,,,,https://en.wikipedia.org/wiki/Estancia_Presidencial_Anchorena_Airport,,50,2017-11-25T22:56:54+00:00
+39084,UY-0001,small_airport,"Villa Independencia Airport",-33.14196,-58.293759,52,SA,Uruguay,UY,"Río Negro Department",UY-RN,RN,"Fray Bentos",0,SUFB,,,,https://en.wikipedia.org/wiki/Villa_Independencia_Airport,"FZB, Fray Bentos Airport",50,2018-03-02T17:59:01+00:00
+325599,UY-0009,small_airport,"Aeroclub Guichón Airfield",-32.346251,-57.170861,276,SA,Uruguay,UY,"Paysandu Department",UY-PA,PA,Guichón,0,,,,,,,50,2017-11-25T12:31:38+00:00
+326536,SUGN,small_airport,"Guichón Airfield",-32.3478,-57.1894,291,SA,Uruguay,UY,"Paysandu Department",UY-PA,PA,Guichón,0,SUGN,,,,,,50,2018-03-02T22:17:32+00:00
+39083,SURB,small_airport,"Rio Branco Airport",-32.583057,-53.454166,55,SA,Uruguay,UY,"Cerro Largo Department",UY-CL,CL,Jaguarao,0,SURB,,,,https://en.wikipedia.org/wiki/R%C3%ADo_Branco_Airport,,50,2024-05-18T23:29:08+00:00
+326538,SUJP,small_airport,"José Pedro Varela Airport",-33.4753,-54.539702,316,SA,Uruguay,UY,"Lavalleja Department",UY-LA,LA,"José Pedro Varela",0,SUJP,,,,,,50,2018-03-02T22:50:58+00:00
+326537,SUJL,small_airport,"Juan Lacaze Airport",-34.415352,-57.46422,40,SA,Uruguay,UY,"Colonia Department",UY-CO,CO,"Juan Lacaze",0,SUJL,,,,,,50,2018-03-02T22:37:53+00:00
+348480,UY-0017,small_airport,"Kiyú Airport",-34.66828,-56.71273,75,SA,Uruguay,UY,"San José Department",UY-SJ,SJ,Kiyú,0,,,,,,,50,2021-10-07T16:07:35+00:00
+348484,UY-0021,small_airport,"La Rinconada Airport",-34.66773,-54.30602,66,SA,Uruguay,UY,"Rocha Department",UY-RO,RO,"La Paloma",0,,,,,,,50,2021-10-07T16:17:47+00:00
+325603,UY-0010,small_airport,"Saman Lascano Airport",-33.755113,-54.148823,163,SA,Uruguay,UY,"Rocha Department",UY-RO,RO,Lascano,0,,,,,,,50,2017-11-25T18:22:35+00:00
+517340,UY-0027,small_airport,"Estancia El Monasterio Airstrip",-33.834374,-54.000696,82,SA,Uruguay,UY,"Rocha Department",UY-RO,RO,"Los Ajos",0,,,1004,,,,50,2023-12-19T01:30:29+00:00
+325613,SUCL,small_airport,"La Calera Airport",-34.286766,-55.354757,501,SA,Uruguay,UY,"Lavalleja Department",UY-LA,LA,Minas,0,SUCL,,,,,,50,2017-11-26T09:55:04+00:00
+326525,SUMI,small_airport,"Minas Municipal Airfield",-34.345455,-55.227522,458,SA,Uruguay,UY,"Lavalleja Department",UY-LA,LA,Minas,0,SUMI,,,,https://en.wikipedia.org/wiki/Campo_Municipal_de_Aterrizaje_Airport,,50,2018-03-02T14:31:25+00:00
+325319,SUBL,small_airport,"Captain Juan Manuel Boiso Lanza Air Base",-34.811533,-56.164317,131,SA,Uruguay,UY,"Montevideo Department",UY-MO,MO,Montevideo,0,SUBL,,,,https://es.wikipedia.org/wiki/Base_A%C3%A9rea_Cap._Juan_Manuel_Boiso_Lanza,,50,2022-10-27T14:28:21+00:00
+349347,UY-0022,small_airport,"Nueva Helvecia Airport",-34.244003,-57.205465,135,SA,Uruguay,UY,"Colonia Department",UY-CO,CO,"Nueva Helvecia",0,,,,,,,50,2021-10-29T23:11:02+00:00
+326534,SUNM,small_airport,"Estancia Nueva Mehlem Airport",-32.96963,-57.982351,158,SA,Uruguay,UY,"Río Negro Department",UY-RN,RN,"Nuevo Berlin",0,SUNM,,,,,,50,2018-03-02T21:24:15+00:00
+326530,SUGA,small_airport,"Military Aeronautical School",-34.7469,-55.961,38,SA,Uruguay,UY,"Canelones Department",UY-CA,CA,Pando,0,SUGA,,,http://www.ema.edu.uy/,,,50,2018-03-02T17:00:21+00:00
+517339,UY-0026,small_airport,"Estancia Don Tomás Airstrip",-31.661925,-54.664019,502,SA,Uruguay,UY,"Rivera Department",UY-RV,RV,"Paso Hospital",0,,,1003,,,,50,2023-12-19T01:14:44+00:00
+326526,SUPC,small_airport,"Charles Chalkling Airport",-32.379601,-58.029761,184,SA,Uruguay,UY,"Paysandu Department",UY-PA,PA,Paysandú,0,SUPC,,,http://www.charleschalkling.com/,,,50,2018-03-02T15:00:47+00:00
+348478,UY-0015,small_airport,"La Arcadia Airport",-34.18717,-58.0733,59,SA,Uruguay,UY,"Colonia Department",UY-CO,CO,"Puerto de Conchillas",0,,,,,,,50,2021-10-07T16:03:14+00:00
+511990,SUPL,small_airport,"Centro Aeronáutico Piriápolis",-34.88278,-55.24861,100,SA,Uruguay,UY,"Maldonado Department",UY-MA,MA,"Punta Colorada",0,SUPL,,SUPL,https://www.facebook.com/p/Centro-Aeron%C3%A1utico-Piriapolis-SUPL-100064702209825/,,,50,2023-09-13T07:39:44+00:00
+348481,UY-0018,small_airport,"La Horqueta Airport",-34.56547,-56.72975,144,SA,Uruguay,UY,"San José Department",UY-SJ,SJ,"Puntas de Valdez",0,,,,,,,50,2021-10-07T16:09:15+00:00
+325594,UY-0007,small_airport,"La Lata Aeroclub Airport",-30.952597,-55.5353,743,SA,Uruguay,UY,"Rivera Department",UY-RV,RV,Rivera,0,,,,,,,50,2017-11-25T10:19:19+00:00
+39085,UY-0002,small_airport,"Rocha Airport",-34.4781,-54.2799,91,SA,Uruguay,UY,"Rocha Department",UY-RO,RO,Rocha,0,,,,,,,50,2019-10-23T09:03:57+00:00
+326553,SUSJ,small_airport,"San José Airport",-34.350554,-56.752438,229,SA,Uruguay,UY,"San José Department",UY-SJ,SJ,"San José",0,SUSJ,,,,,"Aeroclub Maragato",50,2018-03-03T14:31:14+00:00
+326542,SUYI,small_airport,"Sarandí del Yí Airport",-33.311667,-55.600278,460,SA,Uruguay,UY,"Durazno Department",UY-DU,DU,"Sarandi del Yí",0,SUYI,,,,,,50,2018-03-03T09:42:26+00:00
+326535,SUFT,small_airport,"Frigorifico Tacuarembó Airport",-31.703611,-55.943056,490,SA,Uruguay,UY,"Tacuarembo Department",UY-TA,TA,Tacuarembó,0,SUFT,,,,,,50,2018-03-02T21:42:00+00:00
+326547,SUTG,small_airport,"Tomás Gomenzoro Airport",-30.436607,-57.446726,273,SA,Uruguay,UY,"Artigas Department",UY-AR,AR,"Tomás Gomenzoro",0,SUTG,,,,,,50,2018-03-03T11:02:59+00:00
+517333,UY-0024,small_airport,"OTA Agricultural Airport",-33.217597,-54.330647,184,SA,Uruguay,UY,"Treinta y Tres Department",UY-TT,TT,"Treinta y Tres",0,,,1109,,,,50,2023-12-18T23:52:21+00:00
+32492,SUTR,small_airport,"Treinta y Tres Airport",-33.195714,-54.347246,337,SA,Uruguay,UY,"Treinta y Tres Department",UY-TT,TT,"Treinta y Tres",0,SUTR,TYT,,,https://en.wikipedia.org/wiki/Treinta_y_Tres_Airport,,50,2017-10-28T16:13:47+00:00
+326549,UY-0014,small_airport,"Juan B. Desalvo Airport",-33.485556,-56.890833,423,SA,Uruguay,UY,"Flores Department",UY-FS,FS,Trinidad,0,SUTD,,,,,"Aeroclub de Flores",50,2018-03-03T11:30:43+00:00
+326544,SUVE,small_airport,"SAMAN Vergara Airport",-32.960353,-53.930913,102,SA,Uruguay,UY,"Treinta y Tres Department",UY-TT,TT,Vergara,0,SUVE,,,,,"SAMAN Vergara Rice Plant",50,2018-03-03T10:35:05+00:00
+32568,SUVO,small_airport,"Vichadero Airport",-31.739166,-54.587776,488,SA,Uruguay,UY,"Rivera Department",UY-RV,RV,Vichadero,0,SUVO,VCH,,,https://en.wikipedia.org/wiki/Vichadero_Airport,,50,2024-04-15T13:16:18+00:00
+326541,SUYN,small_airport,"Young Airport",-32.6872,-57.6581,230,SA,Uruguay,UY,"Río Negro Department",UY-RN,RN,Young,0,SUYN,,,,,,50,2018-03-03T04:12:50+00:00
+325604,UY-0011,small_airport,"La Media Luna Airport",-30.4053,-57.2756,255,SA,Uruguay,UY,"Artigas Department",UY-AR,AR,Yucutujá,0,,,,,,,50,2017-11-25T18:41:32+00:00
+325903,UY-0012,heliport,"Carmelo Park Hyatt Heliport",-33.95582,-58.335986,,SA,Uruguay,UY,"Colonia Department",UY-CO,CO,Carmelo,0,,,,,,,0,2017-12-18T18:48:36+00:00
+533490,UY-0028,heliport,Helipad,-34.825459,-54.658197,15,SA,Uruguay,UY,"Maldonado Department",UY-MA,MA,"Jose Ignacio",0,,,,,,,0,2024-06-15T18:11:19+00:00
+325619,SUEL,heliport,"Liberty Building Helipad",-34.868763,-56.166733,275,SA,Uruguay,UY,"Montevideo Department",UY-MO,MO,Montevideo,0,SUEL,,,,,,0,2017-11-26T13:20:06+00:00
+324370,UY-0003,closed,"Carlos M Fraschini Airport",-32.246237,-58.093017,66,SA,Uruguay,UY,"Paysandu Department",UY-PA,PA,Paysandu,0,,,,,,,0,2020-10-16T16:33:42+00:00
+517338,UY-0025,heliport,"Atchugarry Foundation Heliport",-34.865038,-54.825127,109,SA,Uruguay,UY,"Maldonado Department",UY-MA,MA,"Pueblo Garzon",0,,,1002,,,,0,2023-12-19T00:33:32+00:00
